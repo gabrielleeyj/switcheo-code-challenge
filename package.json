@@ -1,0 +1,15 @@
+{
+  "name": "code-challenge",
+  "version": "1.0.0",
+  "description": "switcheo code-challenge",
+  "main": "answer.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.0.4"
+  },
+  "dependencies": {}
+}
